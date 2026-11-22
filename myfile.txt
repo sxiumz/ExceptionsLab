@@ -1,0 +1,2 @@
+Файл myfile.txt
+Читається через try-with-resources

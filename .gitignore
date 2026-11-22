@@ -1,0 +1,6 @@
+target/
+.idea/
+*.iml
+students.txt
+copy.txt
+data.bin
